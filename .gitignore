@@ -1,0 +1,9 @@
+/bin/
+/dist/
+*.exe
+*.db
+*.db.lock
+*.test
+coverage.out
+.DS_Store
+
